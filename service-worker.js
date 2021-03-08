@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/megasena-simulator/precache-manifest.7794152469aee91488920a090a727217.js"
+  "/megasena-simulator/precache-manifest.d735fb12887f78bebecd79f56e609527.js"
 );
 
 self.addEventListener('message', (event) => {

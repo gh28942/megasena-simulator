@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2732c38688a81a00066e613834762581",
+    "revision": "e6d76bb10506da588726a1d7ec27df9b",
     "url": "/megasena-simulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/megasena-simulator/static/css/2.bac56067.chunk.css"
   },
   {
-    "revision": "8cc599e4cdc2ae0785d2",
+    "revision": "a88b1cc345950ead26dc",
     "url": "/megasena-simulator/static/css/main.1091bb01.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/megasena-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8cc599e4cdc2ae0785d2",
-    "url": "/megasena-simulator/static/js/main.3d22d367.chunk.js"
+    "revision": "a88b1cc345950ead26dc",
+    "url": "/megasena-simulator/static/js/main.28a86144.chunk.js"
   },
   {
     "revision": "48d313765e9147f27e97",
