@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/megasena-simulator/static/css/main.1091bb01.chunk.css",
+    "main.js": "/megasena-simulator/static/js/main.3d22d367.chunk.js",
+    "main.js.map": "/megasena-simulator/static/js/main.3d22d367.chunk.js.map",
+    "runtime-main.js": "/megasena-simulator/static/js/runtime-main.477fd3ba.js",
+    "runtime-main.js.map": "/megasena-simulator/static/js/runtime-main.477fd3ba.js.map",
+    "static/css/2.bac56067.chunk.css": "/megasena-simulator/static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js": "/megasena-simulator/static/js/2.effe3d63.chunk.js",
+    "static/js/2.effe3d63.chunk.js.map": "/megasena-simulator/static/js/2.effe3d63.chunk.js.map",
+    "index.html": "/megasena-simulator/index.html",
+    "precache-manifest.7794152469aee91488920a090a727217.js": "/megasena-simulator/precache-manifest.7794152469aee91488920a090a727217.js",
+    "service-worker.js": "/megasena-simulator/service-worker.js",
+    "static/css/2.bac56067.chunk.css.map": "/megasena-simulator/static/css/2.bac56067.chunk.css.map",
+    "static/css/main.1091bb01.chunk.css.map": "/megasena-simulator/static/css/main.1091bb01.chunk.css.map",
+    "static/js/2.effe3d63.chunk.js.LICENSE.txt": "/megasena-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.477fd3ba.js",
+    "static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js",
+    "static/css/main.1091bb01.chunk.css",
+    "static/js/main.3d22d367.chunk.js"
+  ]
+}
